@@ -6,4 +6,3 @@ const arm = document.querySelector(".arm");
 const circle = document.querySelector("#circleTimer");
 const workSeconds = 10;
 const breakSeconds = 10;
-const 

@@ -133,4 +133,5 @@ button {
 }
 
 .control-btn-pause {
+  background-image: url("./images/pause.svg");
 }
