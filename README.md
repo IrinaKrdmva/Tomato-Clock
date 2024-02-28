@@ -12,7 +12,7 @@
 
 ## Overview
 
-It is essentially a stop-watch that counts down the time in which you are working and when you should take your break(counts that too 🤣).
+It is essentially a stop-watch that counts down the time in which you are working and when you should take your break (counts that too 🤣).
 
 ### Screenshot
 
