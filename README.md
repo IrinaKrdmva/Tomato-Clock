@@ -3,7 +3,6 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -12,6 +11,8 @@
 - [Author](#author)
 
 ## Overview
+
+It is essentially a stop-watch that counts down the time in which you are working and when you should take your break(counts that too 🤣).
 
 ### Screenshot
 
