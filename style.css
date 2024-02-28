@@ -2,7 +2,7 @@
   --bg-color: #f9d3ee;
   --primary-color: #da4b27;
   --secondary-color: #f7b0d6;
-  --font-family: 'Grandstander', cursive;
+  --font-family: "Grandstander", cursive;
   --timer-size: 600px;
 }
 
@@ -12,14 +12,15 @@
   padding: 0;
 }
 
-html, body {
+html,
+body {
   height: 100%;
   width: 100%;
 }
 
 body {
   font-family: var(--font-family);
-  background-color: var(--bg-color);
+  background-image: linear-gradient(to bottom right, #fdc639, #ff7c60);
   color: var(--primary-color);
   display: grid;
   place-items: center;
@@ -136,7 +137,7 @@ button {
 }
 
 button:hover:not([disabled]) {
-  transform: scale(1.05)
+  transform: scale(1.05);
 }
 
 button:disabled {
@@ -147,10 +148,6 @@ body.break-phase {
   --bg-color: #ebf6fb;
   --primary-color: #5c9700;
   --secondary-color: #cde7ef;
-  --css-filter:
-    grayscale(68%)
-    brightness(123%)
-    sepia(0)
-    hue-rotate(428deg)
+  --css-filter: grayscale(68%) brightness(123%) sepia(0) hue-rotate(428deg)
     saturate(142%);
 }
